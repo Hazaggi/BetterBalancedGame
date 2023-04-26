@@ -516,7 +516,7 @@
 		</Replace>
 		<!-- = unique unit = -->
 		<Replace Tag="LOC_UNIT_GREEK_HOPLITE_DESCRIPTION" Language="en_US">
-			<Text>Greek unique Ancient era anti-cavalry unit that replaces the Spearman. +7 [ICON_Strength] Combat Strength if there is at least one adjacent Hoplite unit.</Text>
+			<Text>Greek unique Ancient era anti-cavalry unit that replaces the Spearman. +10 [ICON_Strength] Combat Strength if there is at least one adjacent Hoplite unit.</Text>
 		</Replace>
 		<Replace Tag="LOC_ABILITY_HOPLITE_DESCRIPTION" Language="en_US">
 			<Text>+7 [ICON_Strength] Combat Strength if there is at least one Hoplite adjacent.</Text>

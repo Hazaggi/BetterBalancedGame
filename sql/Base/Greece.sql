@@ -15,7 +15,7 @@
 --     VALUES ('PLAYER_HAS_POLITICAL_PHILOSOPHY_CPLMOD', 'REQUIREMENTSET_TEST_ALL');
 
 -- Greek hoplite ability to +7
-UPDATE ModifierArguments SET Value='7' WHERE ModifierId='HOPLITE_NEIGHBOR_COMBAT_MODIFIER' AND Name='Amount';
+-- UPDATE ModifierArguments SET Value='7' WHERE ModifierId='HOPLITE_NEIGHBOR_COMBAT_MODIFIER' AND Name='Amount';
 
 --==============================================================================================
 --******            PERICLES                         ******

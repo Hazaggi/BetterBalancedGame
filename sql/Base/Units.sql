@@ -36,7 +36,7 @@ UPDATE Units SET BaseMoves=5 WHERE  UnitType='UNIT_AIRCRAFT_CARRIER';
 UPDATE Units SET Range=4 WHERE UnitType='UNIT_MISSILE_CRUISER';
 
 -- 31/07/2021 Late Game Unit rework
-UPDATE Units SET Combat=80 WHERE UnitType='UNIT_AT_CREW';
+UPDATE Units SET Combat=77 WHERE UnitType='UNIT_AT_CREW';
 UPDATE Units SET Combat=80, BaseMoves=3 WHERE UnitType='UNIT_INFANTRY';
 UPDATE Units SET Combat=65, RangedCombat=75 WHERE UnitType='UNIT_BATTLESHIP';
 --03/10/22: movement from 6 to 5

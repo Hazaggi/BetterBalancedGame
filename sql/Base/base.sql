@@ -1,5 +1,5 @@
 
-UPDATE GlobalParameters SET Value=2 WHERE Name='FORTIFY_BONUS_PER_TURN';
+UPDATE GlobalParameters SET Value=3 WHERE Name='FORTIFY_BONUS_PER_TURN';
 
 --==============================================================
 --******				S  C  O  R  E				  	  ******

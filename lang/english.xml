@@ -1479,7 +1479,7 @@
 			<Text>Shrines and Temples provide [ICON_PRODUCTION] Production equal to their intrinsic [ICON_Faith] Faith output.</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_JUST_WAR_DESCRIPTION" Language="en_US">
-			<Text>Combat units gain +5 [ICON_Strength] Combat Strength near foreign cities that follow this Religion.</Text>
+			<Text>Combat units gain +10 [ICON_Strength] Combat Strength near foreign cities that follow this Religion.</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION" Language="en_US">
 			<Text>Each Holy Site or Theater Square district in a city following this Religion provides +2 [ICON_Faith] Faith or +2 [ICON_Culture] Culture respectively.</Text>

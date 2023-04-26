@@ -4,7 +4,7 @@ UPDATE ModifierArguments SET Value='0' WHERE ModifierId='TRAIT_EXTRALIGHTCAVALRY
 -- Scythian Horse Archer gets a little more offense and defense, less maintenance, and can upgrade to Crossbowman before Field Cannon now
 -- 23/04/2021: Implemented by Firaxis
 -- UPDATE UnitUpgrades SET UpgradeUnit='UNIT_CROSSBOWMAN' WHERE Unit='UNIT_SCYTHIAN_HORSE_ARCHER';
-UPDATE Units SET Range=2, Cost=70 WHERE UnitType='UNIT_SCYTHIAN_HORSE_ARCHER';
+UPDATE Units SET Range=2, Cost=60 WHERE UnitType='UNIT_SCYTHIAN_HORSE_ARCHER';
 -- Adjacent Pastures now give +1 production in addition to faith
 INSERT OR IGNORE INTO Improvement_Adjacencies (ImprovementType , YieldChangeId)
 	VALUES ('IMPROVEMENT_KURGAN' , 'BBG_KURGAN_PASTURE_PRODUCTION');
